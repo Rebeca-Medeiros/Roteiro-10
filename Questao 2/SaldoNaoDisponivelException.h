@@ -10,3 +10,4 @@ class SaldoNaoDisponivelException: public std::runtime_error{
 };
 
 #endif //SALDONAODISPONIVELEXCEPTION_H
+
